@@ -60,6 +60,7 @@ box9229 says:
 2016-05-25 at 22:31:03
 
 1 #./update_kernel_to_disk_images.sh img ../DebianRootFS4ARM/rootfs.img output_cb3/kernel/
+
 2 #./update_uboot_to_disk_images.sh img ../DebianRootFS4ARM/rootfs.img output_cb3/uboot/
 
 看了一下 兩個script 試燒到SD Card可以開機了
