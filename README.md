@@ -31,6 +31,7 @@ Here are some things you need to know when you first booting by this image.
 - Run 'dpkg-reconfigure tzdata' to set your timezone.
 
 https://blog.haostudio.net/hwp/動手打造debian-root-filesystem-for-arm-2/
+
 動手打造Debian root filesystem for ARM
 Posted on 2014-11-06 by hao
 
